@@ -1,0 +1,44 @@
+Nombre | Fecha | Respuestas Correctas | Respuestas Incorrectas
+Preguntas sobre Gatos (Las necesidades diarias de un gato)
+¿Cuántas veces al día debe comer un gato adulto sano?;a) Una sola vez;b) Dos veces al día;c) De forma ilimitada;B
+¿Qué tipo de enriquecimiento ambiental es esencial para un gato de interior?;a) Sesiones de natación;b) Rascadores verticales y horizontales;c) Música clásica;B
+¿Cuál es la temperatura corporal promedio normal de un gato?;a) 38°C;b) 36°C;c) 40°C;A
+¿Por qué es vital que el agua del gato no esté cerca de su comida?;a) Para evitar que se moje el pienso;b) Porque asocian el olor de la comida a la suciedad del agua;c) Para que el agua se mantenga fría;B
+¿Qué componente es esencial en la dieta de un gato, siendo carnívoros obligados?;a) Carbohidratos;b) Fibra vegetal;c) Proteína animal;C
+¿Cuál es la frecuencia ideal para limpiar la caja de arena de un gato?;a) Una vez por semana;b) Una o dos veces al día;c) Una vez cada tres días;B
+¿Cuál de las siguientes enfermedades felinas requiere vacunación anual?;a) Moquillo;b) Leucemia Felina (según riesgo);c) Rabia (si es obligatorio);B
+¿A qué edad suelen castrarse los gatos, idealmente?;a) Entre 5 y 6 meses;b) A partir de un año;c) A los 3 meses;A
+¿Cuál es la función principal de los bigotes (vibrisas) de un gato?;a) Capturar presas;b) Orientación y detección de movimiento;c) Decoración;B
+¿Qué tipo de juguetes prefieren los gatos?;a) Pelotas grandes y duras;b) Juguetes que simulan presas pequeñas;c) Muñecos de peluche;B
+¿Cuántas horas al día duerme, en promedio, un gato adulto?;a) De 6 a 8 horas;b) Solo por la noche;c) De 12 a 16 horas;C
+¿Qué indica un gato que esconde su comida después de comer?;a) Que está a dieta;b) Que no le gusta la comida;c) Que se siente inseguro o estresado;C
+¿Qué significa que un gato "amasé" con sus patas?;a) Que tiene hambre;b) Que siente felicidad y seguridad;c) Que está marcando territorio;B
+¿Cuál es el mejor momento para cepillar a un gato de pelo largo?;a) A diario;b) Durante la siesta;c) Una vez al mes;A
+¿Qué no debe faltar NUNCA en el entorno de un gato, aparte de comida y agua?;a) Un lugar alto para vigilar;b) Una pareja;c) Un collar con cascabel;A
+¿Qué es lo más importante para la salud dental de un gato?;a) Masticar huesos;b) Golosinas;c) Comida seca de calidad y visitas al veterinario;C
+¿Qué señal indica que un gato está estresado?;a) Esconderse o lamerse excesivamente;b) Comer mucho;c) Jugar sin parar;A
+¿Cuál es un signo de deshidratación en un gato?;a) Pérdida de elasticidad de la piel del cuello;b) Pelo brillante;c) Ronroneo constante;A
+¿Cuál es la media de vida de un gato doméstico?;a) 20 a 25 años;b) 12 a 15 años;c) 5 a 8 años;B
+¿Qué ayuda a reducir el estrés durante las visitas al veterinario?;a) Solo premios de comida;b) Transportín abierto;c) Feromonas sintéticas (Feliway) o mantas familiares;C
+
+Preguntas sobre Perros (Como entrenar a tu perro)
+¿Cuál es el mejor momento para socializar un cachorro con otros perros y personas?;a) Después de los 6 meses;b) Entre las 8 y 16 semanas;c) Después del año;B
+¿Qué tipo de refuerzo se usa más en el adiestramiento moderno?;a) Castigo físico;b) Refuerzo positivo (premios, caricias);c) Castigo verbal;B
+¿Qué significa el comando "Ven" o "Aquí"?;a) Un comando opcional;b) Un comando de emergencia vital;c) Un truco;B
+¿Cuál es el objetivo principal del adiestramiento con clicker?;a) Marcar el momento exacto en que el perro hace lo correcto;b) Hacer ruido;c) Asustar al perro;A
+¿Con qué frecuencia se deben hacer las sesiones de entrenamiento con un perro?;a) Una hora seguida al día;b) Sesiones cortas y frecuentes (5-10 minutos);c) Solo los fines de semana;B
+¿Qué indica que un perro está estresado o incómodo?;a) Lame sus labios o bosteza repetidamente;b) Mueve la cola rápidamente;c) Se echa panza arriba;A
+¿Qué es la "generalización" en el adiestramiento?;a) Que el perro obedezca un comando en diferentes entornos;b) Enseñar muchos comandos a la vez;c) Solo usar un tipo de premio;A
+¿Para qué sirve una jaula (crate) en el adiestramiento, si se usa correctamente?;a) Para limitar el movimiento;b) Para castigar al perro;c) Como refugio seguro y para el adiestramiento para ir al baño;C
+¿Qué comando ayuda a prevenir que el perro salte sobre las personas?;"a) Abajo" o "Sentado";b) Arriba;c) Quieto;A
+¿Qué pasa si castigas a tu perro 10 minutos después de que ha hecho algo mal?;a) Aprende la lección;b) No tiene efecto, el castigo debe ser inmediato;c) Solo aprende a temerte;B
+¿A qué se refiere el término "liderazgo" en el adiestramiento de perros?;a) Guiar y enseñar al perro con calma y consistencia;b) Dominar al perro;c) Gritar al perro;A
+¿Cuál es un error común al enseñar el comando "Siéntate"?;a) Empujar las caderas del perro hacia abajo;b) Usar premios;c) Usar el clicker;A
+¿Qué ayuda a un perro a liberar energía y a evitar la destrucción en casa?;a) Estar atado;b) Dejarlo solo;c) Ejercicio físico y mental adecuado;C
+¿Por qué es importante establecer una rutina de alimentación y paseos?;a) Para que el perro sepa qué esperar y esté menos ansioso;b) Solo por comodidad;c) Para ahorrar comida;A
+¿Qué técnica se usa para acostumbrar al perro a sonidos fuertes (como truenos)?;a) Exposición súbita;b) Desensibilización y contra-condicionamiento;c) Ignorar el sonido;B
+¿Qué significa cuando un perro te mira fijamente a los ojos en un contexto tranquilo?;a) Busca atención o está buscando una señal tuya;b) Te está retando;c) Se siente aburrido;A
+¿Qué debe hacer un perro cuando se le da el comando "Deja" o "Suelta"?;a) Ponerse a jugar;b) Masticarlo más rápido;c) Soltar inmediatamente lo que tiene en la boca;C
+¿Cómo se introduce una nueva palabra de comando (por ejemplo, "Playa")?;a) Repitiéndola 50 veces;b) Gritándola;c) Asociándola a una acción o lugar que ya conoce y le gusta;C
+¿A qué edad se considera que un perro ya es adulto y el entrenamiento se vuelve más lento?;a) A los 6 meses;b) Después de los 18-24 meses (según la raza);c) A los 3 años;B
+¿Qué es lo más importante para el éxito a largo plazo en el adiestramiento?;a) Usar un entrenador profesional;b) Ser paciente y constante;c) Tener un perro muy inteligente;B

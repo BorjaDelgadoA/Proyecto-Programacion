@@ -1,0 +1,4 @@
+Nombre | Fecha | Respuestas Correctas | Respuestas Incorrectas
+
+a | 2025-12-02 20:54:21 | Correctas: 5 | Incorrectas: 0
+aa | 2025-12-02 21:31:06 | Correctas: 3 | Incorrectas: 2
